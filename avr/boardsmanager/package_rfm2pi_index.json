@@ -3,7 +3,7 @@
     {
       "name": "RFM2PI",
       "maintainer": "RFM2PI",
-      "websiteURL": "https://github.com/vvvlc/RFM2Pi",
+      "websiteURL": "https://github.com/vvvlc/RFM2Pi-Arduino",
       "email": "",
       "help": {
         "online": ""
@@ -15,7 +15,7 @@
           "version": "1.6.9",
           "category": "Contributed",
           "help": {
-            "online": "https://github.com/vvvlc/RFM2Pi"
+            "online": "https://github.com/vvvlc/RFM2Pi-Arduino"
           },
           "url": "https://github.com/vvvlc/RFM2Pi/archive/1.6.9.zip",
           "archiveFileName": "Breadboard-Arduino-1.6.9.zip",
