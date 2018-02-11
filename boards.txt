@@ -18,7 +18,7 @@ atmega328_384_8.build.mcu=atmega328p
 atmega328_384_8.build.f_cpu=8000000L
 atmega328_384_8.build.core=arduino:arduino
 atmega328_384_8.build.variant=arduino:standard
-atmega328_384_8.build.board=328_384_8
+atmega328_384_8.build.board=AVR_ATMEGA328_384_8
 
 atmega328_384_8.bootloader.tool=arduino:avrdude
 atmega328_384_8.upload.tool=arduino:avrdude
