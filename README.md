@@ -1,5 +1,5 @@
 # RFM2PI
-### ATmega 328p with internal 8mhz clock###
+### ATmega328 Optiboot @ 38,400baud w/ 8MHz Int. RC Osc. ###
 
 There are 3 ways to install these boards files into Arduino.
 
@@ -9,7 +9,7 @@ There are 3 ways to install these boards files into Arduino.
 Add this link to your boards manager. 
 
 ```
-https://raw.githubusercontent.com/oshlab/Breadboard-Arduino/master/avr/boardsmanager/package_oshlab_breadboard_index.json
+https://raw.githubusercontent.com/vvvlc/RFM2Pi-Arduino/master/avr/boardsmanager/package_rfm2pi_index.json
 ```
 Download through the boards manager. This is the easiest method.
 
@@ -17,15 +17,8 @@ Download through the boards manager. This is the easiest method.
 Navigate to your Arduino hardware file directory. For windows this is located in Documents/Arduino/hardware/. Clone this repository into the hardware directory using .
 
 ```
-git clone https://github.com/oshlab/breadboard.git
+git clone https://github.com/vvvlc/RFM2Pi-Arduino.git
 ```
 
 #### Download ####
 Just download this repository and add it to your hardware file directory. For windows this is located in Documents/Arduino/hardware/
-
-
-
-OSH Lab, LLC
-http://oshlab.com
-
-
