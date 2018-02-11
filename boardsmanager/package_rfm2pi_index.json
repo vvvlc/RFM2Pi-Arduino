@@ -10,7 +10,7 @@
       },
       "platforms": [
         {
-          "name": "RFM2PI AVR Board",
+          "name": "RFM2Pi AVR Board",
           "architecture": "avr",
           "version": "2.0.0",
           "category": "Contributed",
