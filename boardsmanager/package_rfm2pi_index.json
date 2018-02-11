@@ -19,8 +19,8 @@
           },
           "url": "https://github.com/vvvlc/RFM2Pi-Arduino/archive/2.0.0.zip",
           "archiveFileName": "RFM2Pi-Arduino-2.0.0.zip",
-          "checksum": "SHA-256:35edfb142ebf2d071b465c0137aa42ed4f8f25ac6cce0e06b2df070284c5eda1",
-          "size": "116457",
+          "checksum": "SHA-256:5b309ed6168f014b761531f8585726d077203937a9803b8c0970052355adb869",
+          "size": "116642",
           "boards": [
             {"name": "ATmega328 Optiboot @ 38,400baud w/ 8MHz Int. RC Osc."}
           ],
