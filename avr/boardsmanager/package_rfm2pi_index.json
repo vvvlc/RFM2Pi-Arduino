@@ -17,10 +17,10 @@
           "help": {
             "online": "https://github.com/vvvlc/RFM2Pi-Arduino"
           },
-          "url": "https://github.com/vvvlc/RFM2Pi/archive/1.6.9.zip",
-          "archiveFileName": "Breadboard-Arduino-1.6.9.zip",
-          "checksum": "SHA-256:3987B081B0C15748681528FB509B9464AB8A6F4838D667F046F44EB64EEBB6AD",
-          "size": "5246",
+          "url": "https://github.com/vvvlc/RFM2Pi-Arduino/archive/1.6.9.zip",
+          "archiveFileName": "RFM2Pi-Arduino-1.6.9.zip",
+          "checksum": "SHA-256:6758b45f6f40bae8b818bff7aa0023cddf08ade0c384b847f6d9a05b63e5b6a4",
+          "size": "15516",
           "boards": [
             {"name": "ATmega328 Optiboot @ 38,400baud w/ 8MHz Int. RC Osc."}
           ],
