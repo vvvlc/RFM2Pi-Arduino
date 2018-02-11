@@ -9,7 +9,7 @@ There are 3 ways to install these boards files into Arduino.
 Add this link to your boards manager. 
 
 ```
-https://raw.githubusercontent.com/vvvlc/RFM2Pi-Arduino/master/avr/boardsmanager/package_rfm2pi_index.json
+https://raw.githubusercontent.com/vvvlc/RFM2Pi-Arduino/master/boardsmanager/package_rfm2pi_index.json
 ```
 Download through the boards manager. This is the easiest method.
 
