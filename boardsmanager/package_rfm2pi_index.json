@@ -1,0 +1,36 @@
+{
+  "packages": [
+    {
+      "name": "RFM2Pi",
+      "maintainer": "RFM2Pi",
+      "websiteURL": "https://wiki.openenergymonitor.org/index.php/RFM12Pi_V2",
+      "email": "",
+      "help": {
+        "online": "https://wiki.openenergymonitor.org/index.php/RFM12Pi_V2"
+      },
+      "platforms": [
+        {
+          "name": "RFM2PI AVR Board",
+          "architecture": "avr",
+          "version": "2.0.0",
+          "category": "Contributed",
+          "help": {
+            "online": "https://github.com/vvvlc/RFM2Pi-Arduino"
+          },
+          "url": "https://github.com/vvvlc/RFM2Pi-Arduino/archive/2.0.0.zip",
+          "archiveFileName": "RFM2Pi-Arduino-2.0.0.zip",
+          "checksum": "SHA-256:6758b45f6f40bae8b818bff7aa0023cddf08ade0c384b847f6d9a05b63e5b6a4",
+          "size": "15516",
+          "boards": [
+            {"name": "ATmega328 Optiboot @ 38,400baud w/ 8MHz Int. RC Osc."}
+          ],
+          "toolsDependencies": [
+            { "packager": "arduino", "name": "avr-gcc", "version": "4.8.1-arduino5" },
+            { "packager": "arduino", "name": "avrdude", "version": "6.0.1-arduino5" }
+          ]
+        }
+    ],
+    "tools": []
+   }
+  ]
+}
